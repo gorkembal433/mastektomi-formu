@@ -1,5 +1,5 @@
 
-import BreastMapForm from "@/components/BreastMapForm";
+import BreastMapForm from "../components/BreastMapForm";
 
 export default function Home() {
   return (
